@@ -1,0 +1,8 @@
+{
+  "/(rutas)/role/page": "app/(rutas)/role/page.js",
+  "/(rutas)/login/[slug]/page": "app/(rutas)/login/[slug]/page.js",
+  "/api/auth/logout/route": "app/api/auth/logout/route.js",
+  "/(rutas)/edu/citas/page": "app/(rutas)/edu/citas/page.js",
+  "/(rutas)/edu/page": "app/(rutas)/edu/page.js",
+  "/(rutas)/edu/historial/page": "app/(rutas)/edu/historial/page.js"
+}

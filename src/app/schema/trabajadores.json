@@ -1,0 +1,38 @@
+[
+    {
+        "id": "2724d",
+        "customId": "per-2724d",
+        "nombre": "Jesus Jean Carlos",
+        "apellido": "Gonzales Vela",
+        "correo": "72877216@certus.edu.pe",
+        "turno": "mañana",
+        "sede": "Surco"
+    },
+    {
+        "id": "40f09",
+        "customId": "per-40f09",
+        "nombre": "Jordy Fabrizio",
+        "apellido": "Farias Bravo",
+        "correo": "72303359@certus.edu.pe",
+        "turno": "mañana",
+        "sede": "Surco"
+    },
+    {
+        "id": "6b0ab",
+        "customId": "per-6b0ab",
+        "nombre": "Sebastian Armando",
+        "apellido": "Huaman Navarro",
+        "correo": "72875581@certus.edu.pe",
+        "turno": "mañana",
+        "sede": "Surco"
+    },
+    {
+        "id": "05c36",
+        "customId": "per-05c36",
+        "nombre": "Jhon Diego",
+        "apellido": "Tacuri Gutierrez",
+        "correo": "72924221@certus.edu.pe",
+        "turno": "mañana",
+        "sede": "Surco"
+    }
+]
